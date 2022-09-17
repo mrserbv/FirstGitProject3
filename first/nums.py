@@ -7,6 +7,9 @@ def minus(a, b):
 def mult(a, b):
     return a * b
 
+def devide(x, y):
+    return x / y
+
 if __name__ == '__main__':
     a = 10
     b = 2
